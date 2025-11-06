@@ -6,7 +6,7 @@ Explorar o uso do GitHub Actions em múltiplos sistemas operacionais e versões 
 
 ## Descrição
 
-1. **Criar programa com testes:** Crie um reposiórtio no GitHub. Implemente um pequeno programa (na linguagem de sua escolha) e escreva pelo menos 5 testes de unidade.
+1. **Criar programa com testes no GitHub:** Crie um reposiórtio no GitHub. Implemente um pequeno programa (na linguagem de sua escolha) e escreva pelo menos 5 testes de unidade.
    
 2. **Executar os testes no GitHub Actions**: Configure a ferramenta de CI/CD GitHub Actions executar os testes automaticamente a cada commit. No GitHub, você encontra exemplos sobre como utilizar o GitHub Actions em linguagens (https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing).
 
@@ -16,4 +16,5 @@ Explorar o uso do GitHub Actions em múltiplos sistemas operacionais e versões 
 
 ## Submissão
 
-Submeter no Moodle o link do último build com sucesso do GitHub Actions. Por exemplo: https://github.com/Textualize/rich/actions/runs/18370672554
+Submeter no Moodle o link do último build com sucesso do GitHub Actions.
+Por exemplo: https://github.com/Textualize/rich/actions/runs/18370672554

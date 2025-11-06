@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Explorar o uso do GitHub Actions em múltiplos sistemas operacionais e versões de linguagens de programação.
+Explorar o uso do [GitHub Actions](https://docs.github.com/en/actions) em múltiplos sistemas operacionais e versões de linguagens de programação.
 
 ## Descrição
 
